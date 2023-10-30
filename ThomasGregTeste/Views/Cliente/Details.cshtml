@@ -1,0 +1,31 @@
+﻿@model ThomasGregTeste.Business.Models.ClienteViewModel;
+@{
+    ViewData["Title"] = "Detalhe Cliente";
+}
+<div class="container">
+    <div class="row">
+        <div class="col col-md-6 offset-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Nome: @Model.Nome</h5>
+                    <h5 class="card-title">Email: @Model.Email</h5>
+                    <p>
+                        Logradouros
+                    </p>
+                    @foreach (var item in @Model.Logradouros)
+                    {
+                        <div class="card">
+                            <div class="card-header">
+                                @item.Endereco Address<br/>
+                            </div>
+                        </div>
+                    }
+                    <div class="alert alert-info" role="alert">
+                        <img src="@Url.Content(@Model.Logotipo)" alt="Seu logotipo">
+                    </div>
+                    <a class="navbar-brand" asp-area="" asp-controller="Cliente" asp-action="Index">Voltar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,43 @@
+﻿@* @using ThomasGregTeste.Services;
+@model ClienteUpdate
+
+
+<div class="container">
+    <div class="row">
+        <div class="col col-md-6 offset-md-3">
+            <form method="post">
+                <legend>Update Employee</legend>
+                <input type="hidden" asp-for="ClienteParaUpdate.Id">
+                <div class="mb-3">
+                    <label for="txtfirstName" class="form-label">First Name</label>
+                    <input asp-for="ClienteParaUpdate.Nome" type="text" class="form-control" id="txtfirstName" />
+                </div>
+                <div class="mb-3">
+                    <label for="txtlastName" class="form-label">Last Name</label>
+                    <input asp-for="ClienteParaUpdate.Email" type="text" class="form-control" id="txtlastName" />
+                </div>
+                <div class="mb-3">
+                    <label for="txtjobRole" class="form-label">Job Role</label>
+                    <input asp-for="ClienteParaUpdate.Logotipo" type="text" class="form-control" id="txtjobRole" />
+                </div>
+                @for (int i = 0; i <= 1; i++)
+                {
+                    <div class="row">
+
+                        <legend>Address @i</legend>
+                        <input type="hidden" asp-for="ClienteParaUpdate.Logradouros[i].Id">
+                        <div class="mb-3">
+                            <label for="txtCity" class="form-label">Address Type</label>
+                            <input asp-for="ClienteParaUpdate.Logradouros[i].Endereco" type="text"
+                                   class="form-control" />
+                        </div>
+
+                    </div>
+                }
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+ *@

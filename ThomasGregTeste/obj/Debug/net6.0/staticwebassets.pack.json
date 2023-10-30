@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ThomasGreg.App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ThomasGreg.App.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\30c2989e-b853-4bef-b468-d48656462234logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\30c2989e-b853-4bef-b468-d48656462234logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\38121f60-638f-47c7-b8fc-c3fd06239051logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\38121f60-638f-47c7-b8fc-c3fd06239051logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\58a64761-60df-4ea8-8672-897310601144logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\58a64761-60df-4ea8-8672-897310601144logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\8e614d7f-122b-40a5-891a-67c8271f7316logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\8e614d7f-122b-40a5-891a-67c8271f7316logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\9cd4ec9d-3021-4b63-b4a2-9b0514a329e5logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\9cd4ec9d-3021-4b63-b4a2-9b0514a329e5logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\aaf46497-7882-4d56-b88f-3210c6aab834logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\aaf46497-7882-4d56-b88f-3210c6aab834logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\cafbea44-378a-4e5b-a62d-256c0457177blogo.jpg",
+      "PackagePath": "staticwebassets\\logos\\cafbea44-378a-4e5b-a62d-256c0457177blogo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\d3149580-ace8-4d83-a7b0-1a04ad4aa072logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\d3149580-ace8-4d83-a7b0-1a04ad4aa072logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\d60344e1-914a-4827-b5fc-9e9729d9f757logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\d60344e1-914a-4827-b5fc-9e9729d9f757logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\db67b562-c6d5-4cf7-8bb9-12da38e9f734logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\db67b562-c6d5-4cf7-8bb9-12da38e9f734logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\dd07d8b1-1e47-4c2b-8437-97553382df84logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\dd07d8b1-1e47-4c2b-8437-97553382df84logo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos\\ThomasGreg\\thomasgregteste\\ThomasGregTeste\\wwwroot\\logos\\ef5393db-78d2-4bed-a2fb-315159ee3219logo.jpg",
+      "PackagePath": "staticwebassets\\logos\\ef5393db-78d2-4bed-a2fb-315159ee3219logo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ThomasGreg.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ThomasGreg.App.props",
+      "PackagePath": "build\\ThomasGreg.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ThomasGreg.App.props",
+      "PackagePath": "buildMultiTargeting\\ThomasGreg.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ThomasGreg.App.props",
+      "PackagePath": "buildTransitive\\ThomasGreg.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

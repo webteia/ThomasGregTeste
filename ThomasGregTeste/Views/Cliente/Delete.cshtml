@@ -1,0 +1,28 @@
+﻿@* @using ThomasGregTeste.Services;
+@model ClienteDelete
+
+<div class="container">
+    <div class="row">
+        <div class="col col-md-6 offset-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Cliente.Nome</h5>
+                    <h5 class="card-title">@Model.Cliente.Email</h5>
+                    @foreach (var item in Model.Cliente.Logradouros)
+                    {
+                        <div class="card">
+                            <div class="card-header">
+                                @item.Endereco Address
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <button type="submit" class="btn btn-primary">Confirm Delete</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> *@

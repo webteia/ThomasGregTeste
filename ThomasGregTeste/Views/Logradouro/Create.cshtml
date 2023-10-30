@@ -1,0 +1,28 @@
+﻿@model ThomasGregTeste.Business.Models.LogradouroViewModel
+@{
+    ViewData["Title"] = "Cadastro Logradouro";
+}
+<div class="container">
+    <div class="row">
+
+        @if (@ViewBag.Message != null)
+        {
+            <div class="row">
+                <div class="row alert alert-warning" role="alert">
+                    @ViewBag.Message
+                </div>
+            </div>
+        }
+        <div class="col col-md-6 offset-md-3">
+            <form asp-action="Create" id="logradouroForm" enctype="multipart/form-data">
+                <legend>Cadastar Logradouro</legend>
+                <div class="mb-3">
+                    <label for="txtNome" class="form-label">@Html.LabelFor(model => model.Endereco)</label>
+                    <input asp-for="Endereco" type="text" class="form-control" id="txtNome" />
+                    <span asp-validation-for="Endereco" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
